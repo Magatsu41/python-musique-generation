@@ -17,7 +17,7 @@ Téléchargez la dernière release du Fluidsynth : https://github.com/FluidSynth
 
 Décompressez l'archive à l'emplacement de votre choix puis ajouter ce dossier à votre PATH :
 Sur Windows depuis les variables d'environnement.
-Sur Linux en utilisant la commande : export PATH=$PATH,"chemin-vers-votre-dossier"
+Sur Linux en utilisant la commande : export PATH=$PATH:"chemin-vers-votre-dossier"
 
 ## La Soundfont General-MIDI
 
